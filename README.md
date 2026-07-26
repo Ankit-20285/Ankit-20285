@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# Hi, I'm Ankit Singh 👋
+
+First-year CSE Student
+DSA | Machine Learning | Python
+Solved 150+ LeetCode problems
+Building ML projects with Scikit-Learn
 
 <!--
 **Ankit-20285/Ankit-20285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
