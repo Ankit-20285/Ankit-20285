@@ -3,7 +3,7 @@
 
 First-year CSE Student <br>
 DSA | Machine Learning | Python <br>
-LeetCode • 150+ Problems Solved <br>
+LeetCode • 200+ Problems Solved <br>
 Building ML projects with Scikit-Learn
 
 <!--
