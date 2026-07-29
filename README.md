@@ -3,13 +3,13 @@
 
 First-Year Computer Science Student
 
-• Data Structures & Algorithms
-• Machine Learning with Scikit-Learn
-• Python Developer
+• Data Structures & Algorithms <br>
+• Machine Learning with Scikit-Learn <br>
+• Python Developer <br>
 
-🚀 200+ LeetCode Problems Solved
-📂 Building Machine Learning Projects
-🌱 Currently learning Deep Learning & AI
+🚀 200+ LeetCode Problems Solved <br>
+📂 Building Machine Learning Projects <br>
+🌱 Currently learning Deep Learning & AI <br>
 
 <!--
 **Ankit-20285/Ankit-20285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
