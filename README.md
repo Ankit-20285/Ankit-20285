@@ -4,10 +4,10 @@
 First-Year Computer Science Student
 
 • Data Structures & Algorithms <br>
-• Machine Learning with Scikit-Learn <br>
+• Machine Learning & Deep Learning <br>
 • Python Developer <br>
 
-200+ LeetCode Problems Solved <br>
+250+ LeetCode Problems Solved <br>
 Building Machine Learning Projects <br>
 Currently learning Deep Learning & AI <br>
 
