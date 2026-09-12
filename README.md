@@ -3,7 +3,7 @@
 First-Year Computer Science Student
 
 • Data Structures & Algorithms <br>
-• AI & Machine Learning Enthusiast <br>
+• AI & Deep Learning Enthusiast <br>
 • Python Developer <br>
 
 300+ LeetCode Problems Solved <br>
