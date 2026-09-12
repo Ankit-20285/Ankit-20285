@@ -6,7 +6,7 @@ First-Year Computer Science Student
 • AI & Machine Learning Enthusiast <br>
 • Python Developer <br>
 
-250+ LeetCode Problems Solved <br>
+300+ LeetCode Problems Solved <br>
 Building Machine Learning Projects <br>
 Currently Learning Deep Learning & CNNs <br>
 
