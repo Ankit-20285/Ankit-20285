@@ -1,23 +1,19 @@
 # Hi, I'm Ankit Singh 👋
 
-### First-Year Computer Science Student | AI/ML & Computer Vision
-- Exploring Artificial Intelligence, Machine Learning, and Deep Learning
-- Building practical ML and Computer Vision projects
-- Working with Python, TensorFlow/Keras, and Scikit-learn
-- Integrating ML models with FastAPI and REST APIs
+🎓 First-Year CSE Student | 🤖 AI/ML & Computer Vision Enthusiast
+
+- Building practical AI/ML projects with Python and TensorFlow
+- Developing ML APIs using FastAPI and SQLite
 - Practicing Data Structures & Algorithms
 
 ### 🛠️ Tech Stack
 **Languages:** Python, C, JavaScript  
 **AI/ML:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas  
 **Backend:** FastAPI, REST APIs  
-**Web:** HTML, CSS, JavaScript  
-**Database & Tools:** SQLite, Git, GitHub, pytest
+**Tools:** Git, GitHub, SQLite, pytest
 
-### 📚 Currently Working On
-- Strengthening Data Structures & Algorithms
-- Improving problem-solving and coding fundamentals
-- Exploring more practical AI/ML and Computer Vision applications
+### 🚀 Currently
+Exploring Deep Learning, Computer Vision, and building AI-powered applications.
 <!--
 **Ankit-20285/Ankit-20285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
